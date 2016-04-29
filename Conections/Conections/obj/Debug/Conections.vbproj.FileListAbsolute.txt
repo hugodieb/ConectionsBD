@@ -1,0 +1,10 @@
+G:\projetos_vb\conectionsBD\Conections\Conections\bin\Debug\Conections.exe.config
+G:\projetos_vb\conectionsBD\Conections\Conections\bin\Debug\Conections.exe
+G:\projetos_vb\conectionsBD\Conections\Conections\bin\Debug\Conections.pdb
+G:\projetos_vb\conectionsBD\Conections\Conections\bin\Debug\Conections.xml
+G:\projetos_vb\conectionsBD\Conections\Conections\obj\Debug\Conections.main.resources
+G:\projetos_vb\conectionsBD\Conections\Conections\obj\Debug\Conections.Resources.resources
+G:\projetos_vb\conectionsBD\Conections\Conections\obj\Debug\Conections.vbproj.GenerateResource.Cache
+G:\projetos_vb\conectionsBD\Conections\Conections\obj\Debug\Conections.exe
+G:\projetos_vb\conectionsBD\Conections\Conections\obj\Debug\Conections.xml
+G:\projetos_vb\conectionsBD\Conections\Conections\obj\Debug\Conections.pdb
